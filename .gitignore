@@ -1,0 +1,26 @@
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# IDE specific
+.vscode/
+.idea/
+
+# OS-specific
+.DS_Store
+
+# Build output
+dist/
